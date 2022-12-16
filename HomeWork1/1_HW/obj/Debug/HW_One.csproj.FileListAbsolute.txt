@@ -1,0 +1,8 @@
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\bin\Debug\HW_One.exe.config
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\bin\Debug\HW_One.exe
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\bin\Debug\HW_One.pdb
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\obj\Debug\HW_One.csproj.AssemblyReference.cache
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\obj\Debug\HW_One.csproj.SuggestedBindingRedirects.cache
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\obj\Debug\HW_One.csproj.CoreCompileInputs.cache
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\obj\Debug\HW_One.exe
+C:\Study\HomeWork\HomeWorkLessonOne\HW_One\obj\Debug\HW_One.pdb

@@ -1,0 +1,8 @@
+C:\Study\HomeWork\HomeWork2\3_TestTasks\bin\Debug\3_TestTasks.exe.config
+C:\Study\HomeWork\HomeWork2\3_TestTasks\bin\Debug\3_TestTasks.exe
+C:\Study\HomeWork\HomeWork2\3_TestTasks\bin\Debug\3_TestTasks.pdb
+C:\Study\HomeWork\HomeWork2\3_TestTasks\obj\Debug\3_TestTasks.csproj.AssemblyReference.cache
+C:\Study\HomeWork\HomeWork2\3_TestTasks\obj\Debug\3_TestTasks.csproj.SuggestedBindingRedirects.cache
+C:\Study\HomeWork\HomeWork2\3_TestTasks\obj\Debug\3_TestTasks.csproj.CoreCompileInputs.cache
+C:\Study\HomeWork\HomeWork2\3_TestTasks\obj\Debug\3_TestTasks.exe
+C:\Study\HomeWork\HomeWork2\3_TestTasks\obj\Debug\3_TestTasks.pdb

@@ -1,0 +1,8 @@
+C:\Study\HomeWork\HomeWork4\10_HW\bin\Debug\10_HW.exe.config
+C:\Study\HomeWork\HomeWork4\10_HW\bin\Debug\10_HW.exe
+C:\Study\HomeWork\HomeWork4\10_HW\bin\Debug\10_HW.pdb
+C:\Study\HomeWork\HomeWork4\10_HW\obj\Debug\10_HW.csproj.AssemblyReference.cache
+C:\Study\HomeWork\HomeWork4\10_HW\obj\Debug\10_HW.csproj.SuggestedBindingRedirects.cache
+C:\Study\HomeWork\HomeWork4\10_HW\obj\Debug\10_HW.csproj.CoreCompileInputs.cache
+C:\Study\HomeWork\HomeWork4\10_HW\obj\Debug\10_HW.exe
+C:\Study\HomeWork\HomeWork4\10_HW\obj\Debug\10_HW.pdb
