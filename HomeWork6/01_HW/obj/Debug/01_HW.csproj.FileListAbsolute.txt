@@ -1,0 +1,8 @@
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\obj\Debug\01_HW.csproj.AssemblyReference.cache
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\obj\Debug\01_HW.csproj.SuggestedBindingRedirects.cache
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\obj\Debug\01_HW.csproj.CoreCompileInputs.cache
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\bin\Debug\01_HW.exe.config
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\bin\Debug\01_HW.exe
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\bin\Debug\01_HW.pdb
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\obj\Debug\01_HW.exe
+D:\Study\C#\Сourses\C#_basic\HomeWorks\HomeWork6\01_HW\obj\Debug\01_HW.pdb
